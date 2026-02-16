@@ -1,16 +1,74 @@
-## Hi there 👋
+<h1 align="center">👋 Hola, soy Juan Pablo Soto</h1>
 
-<!--
-**Juanpissot23/Juanpissot23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner Ingeniería Electrónica](https://i.imgur.com/QEgHkxU.jpeg)
 
-Here are some ideas to get you started:
+🎓 Ingeniero electrónico en formación  
+⚡ Experiencia en los sistemas embebidos, la automatización y el control  
+💡 He construido soluciones que integran hardware + software + datos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+
+Tengo experiencia en el desarrollo de **sistemas electrónicos y plataformas de automatización**, combinando programación de bajo nivel con herramientas modernas de análisis y visualización.
+
+He trabajado con:
+
+- Programación en **C/C++** para microcontroladores (por ejemplo, **PIC16F**).
+- Diseño digital en **VHDL**.
+- Desarrollo en **Python** y **MicroPython** para aplicaciones embebidas (por ejemplo, **ESP32**).
+- Integración de hardware con dashboards, telemetría y monitoreo en tiempo real.
+- Manejo de **bases de datos en SQL** para almacenamiento, consulta y análisis de información.
+
+Me interesa transformar procesos tradicionales en soluciones **inteligentes, eficientes y escalables**.
+
+---
+
+## 🧠 Áreas de interés
+
+🔹 Sistemas embebidos     
+🔹 IoT y monitoreo remoto  
+🔹 Integración con plataformas en la nube  
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### Lenguajes
+- C / C++
+- VHDL
+- Python
+- MicroPython
+- SQL
+
+### Hardware
+- PIC16F
+- ESP32
+
+### Software & Entornos
+- MPLAB X
+- MCC
+- MATLAB / Simulink
+- Node-RED
+- Git & GitHub
+
+---
+
+## 📈 Actualmente enfocado en
+
+✔ Arquitecturas embebidas conectadas a la nube  
+✔ Automatización de captura y análisis de datos  
+✔ Interfaces visuales para monitoreo en tiempo real  
+✔ Optimización de controladores digitales  
+
+---
+
+## 🤝 Conectemos
+
+Siempre abierto a colaborar en proyectos de ingeniería, investigación o desarrollo tecnológico.
+
+📫 Puedes explorar mis repositorios y ver en qué estoy trabajando.
+
+---
+
+⭐ *"La ingeniería no solo resuelve problemas, crea el futuro."*
