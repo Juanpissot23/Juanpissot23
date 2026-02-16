@@ -67,7 +67,7 @@ Me interesa transformar procesos tradicionales en soluciones **inteligentes, efi
 
 Siempre abierto a colaborar en proyectos de ingeniería, investigación o desarrollo tecnológico.
 
-📫 Puedes explorar mis repositorios y ver en qué estoy trabajando.
+📫 Puedes explorar mis repositorios y ver qué he hecho academicamente en la carrera.
 
 ---
 
